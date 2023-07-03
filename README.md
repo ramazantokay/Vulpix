@@ -75,3 +75,10 @@ I would like to point out couple of things. I made extensive use of [iOrange](ht
 
 I also would like to express my gratitude to the incredible community of writers, bloggers, and tutorial creators who have played an invaluable role in shaping my journey throughout this term project. Without their expertise, guidance, and wealth of knowledge shared on various blog and tutorial pages, I would not have been able to achieve the results.
 
+## Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, feel free to submit a pull request or open an issue in the GitHub repository.
+
+## Contact
+
+If you have any questions, suggestions, or feedback, please feel free to reach out to me at [rmzntokay@gmail.com](mailto:rmzntokay@gmail.com).
