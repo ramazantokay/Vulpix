@@ -52,8 +52,15 @@ After that, you just need to change 2 things, other dependencies are already in 
 
 ![Sponza](vulpix/assets/ss/sponza_ss1.png)
 
-
 ![Sponza](vulpix/assets/ss/erato_bunny_teapot.png)
+
+## TODO
+
+There are several additions planned for Vulpix:
+
+- glTF file support: Support for importing 3D scenes and models in the glTF format will be added, allowing for more versatile and complex scenes.
+- Dear ImGui UI integration: Integration of the Dear ImGui library will provide a user-friendly and customizable UI for controlling and configuring Vulpix.
+- Premake build system: Implement the Premake build system to provide a flexible and platform-independent build configuration for Vulpix.
 
 ## References
 - [Vulkan Tutorial](https://vulkan-tutorial.com/), I used this tutorial for learning the basics of the vulkan.
