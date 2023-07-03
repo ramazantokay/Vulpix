@@ -75,6 +75,12 @@ I would like to point out couple of things. I made extensive use of [iOrange](ht
 
 I also would like to express my gratitude to the incredible community of writers, bloggers, and tutorial creators who have played an invaluable role in shaping my journey throughout this term project. Without their expertise, guidance, and wealth of knowledge shared on various blog and tutorial pages, I would not have been able to achieve the results.
 
+## Disclaimer
+Please note that this implementation may contain limitations, potential bugs, and dependencies on external libraries and tools. While efforts have been made to ensure correctness, there is no guarantee of flawless execution. Exercise caution, conduct thorough testing, and adapt the code to your requirements. Report issues on GitHub and contribute to improvements. Use responsibly, validate results, and the authors disclaim liability for any damages or issues arising from the use of this code.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to submit a pull request or open an issue in the GitHub repository.
