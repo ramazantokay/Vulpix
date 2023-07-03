@@ -3,7 +3,7 @@
 Vulpix is a real-time ray tracing renderer built using the Vulkan API. 
 Inspired by the captivating [Fire-type Pokemon](https://www.pokemon.com/us/pokedex/vulpix) of the same name. Vulpix combines the power of Vulkan and the art of ray tracing to bring you stunningly lifelike graphics. 
 
-![Vulpix](vulpix.jpeg)
+![Vulpix](vulpix/assets/ss/vulpix.jpeg)
 
 **Note: This repository is my experimental project because I am currently learning Vulkan. It may contain work-in-progress features, incomplete functionality, or experimental code.**
 
