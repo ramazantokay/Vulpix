@@ -1,0 +1,15 @@
+[submodule "ext_lib/glm"]
+	path = ext_lib/glm
+	url = https://github.com/g-truc/glm
+[submodule "ext_lib/glfw"]
+	path = ext_lib/glfw
+	url = https://github.com/glfw/glfw/
+[submodule "ext_lib/stb"]
+	path = ext_lib/stb
+	url = https://github.com/nothings/stb.git
+[submodule "ext_lib/tinyobjloader"]
+	path = ext_lib/tinyobjloader
+	url = https://github.com/tinyobjloader/tinyobjloader.git
+[submodule "ext_lib/volk"]
+	path = ext_lib/volk
+	url = https://github.com/zeux/volk.git

@@ -1,0 +1,20 @@
+﻿  Buffer.cpp
+  AppBase.cpp
+  Image.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_vulkan.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+  Camera.cpp
+  ShaderBindingTable.cpp
+  Shader.cpp
+  VulpixApp.cpp
+  Vulpix_Context.cpp
+  Vulpix_Scene.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  vulpix.vcxproj -> C:\Users\Altair\Desktop\cg_final\vulpix\x64\Debug\vulpix.exe
